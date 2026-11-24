@@ -1,0 +1,9 @@
+
+declare -rA active_directoty=(
+    # Examples 
+    # [DOWNOADS_DIR]="$HOME/Downloads"
+    # [MUSIC_DIR]="$HOME/Musics"
+    # [VIDEO_DIT]="$HOME/Videos/"
+    # ...
+)
+
